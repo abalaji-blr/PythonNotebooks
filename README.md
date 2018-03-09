@@ -1,5 +1,9 @@
 # PythonNotebooks
 
+## JumpStart to Statistics
++ [Hypothesis Testing](./StatHypothesisTesting.ipynb)
+
+
 ## JumpStart to Python
 
 + [Intro to Python](./PythonJumpStart.ipynb)
