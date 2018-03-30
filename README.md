@@ -10,6 +10,7 @@
 + [Python Modules](./PythonModulesJumpStart.ipynb)
 + [Python Modules - Regular Expressions](./PythonModulesJumpStart2.ipynb)
 + [N Dimensional Array Support: Numpy](./PythonNumpy.ipynb)
++ [ Numpy Examples](./Examples/Numpy.Examples.ipynb)
 + [DataFrame support: Pandas](./PythonPandas.ipynb)
 + [Plotting: matplotlib / seaborn ](./PythonMatplotlib.ipynb)
 
