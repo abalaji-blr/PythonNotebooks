@@ -1,11 +1,16 @@
 # PythonNotebooks
 
+## JumpStart to Statistics
++ [Hypothesis Testing](./StatHypothesisTesting.ipynb)
+
+
 ## JumpStart to Python
 
 + [Intro to Python](./PythonJumpStart.ipynb)
 + [Python Modules](./PythonModulesJumpStart.ipynb)
 + [Python Modules - Regular Expressions](./PythonModulesJumpStart2.ipynb)
 + [N Dimensional Array Support: Numpy](./PythonNumpy.ipynb)
++ [ Numpy Examples](./Examples/Numpy.Examples.ipynb)
 + [DataFrame support: Pandas](./PythonPandas.ipynb)
 + [Plotting: matplotlib / seaborn ](./PythonMatplotlib.ipynb)
 
